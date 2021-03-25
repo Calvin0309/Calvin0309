@@ -13,7 +13,7 @@ For this project I built a breast cancer classifier to estimate whether the brea
 *The best performance model is Logistic regression model, with a accuracy of 97.60% and standard deviation of 1.87%.
 
 *Dataset= breast_cancer.csv
-*Code=Breast_Cancer_ML_Model.ipynb
+*Code=Breast_Cancer_Model.ipynb
 <!---
 Calvin0309/Calvin0309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
