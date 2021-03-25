@@ -9,7 +9,7 @@ For this project I built a breast cancer classifier to estimate whether the brea
 *Users can use the model to make estimation by entering the values of 9 features.  
 *To get the best model, I had implement multiple models such as random forest,SVC, XGBoost, CatBoost and so on.
 *K-fold cross validation is applied to get the most accurate accuracies for each models.
-*The best performance model is CatBoost model.
+*The best performance model is CatBoost model, with a accuracy of 96.53%.
 
 *Dataset= breast_cancer.csv
 *Code=Breast_Cancer_ML_Model.ipynb
