@@ -7,9 +7,10 @@
 For this project I built a breast cancer classifier to estimate whether the breast lump is benign or maglinant. This could be useful for the doctors(users) to give an estimated answer to the patients and let them decide to remove the lump or not before the things get worse. 
 
 *Users can use the model to make estimation by entering the values of 9 features.  
-*To get the best model, I had implement multiple models such as random forest,SVC, XGBoost, CatBoost and so on.
+*To get the best model, I had implement multiple models such as logistic regression, random forest, SVC, XGBoost, CatBoost and so on.
 *K-fold cross validation is applied to get the most accurate accuracies for each models.
-*The best performance model is CatBoost model, with a accuracy of 96.53%.
+*GridsearchCV is used to tune the hyperparameters of each models.
+*The best performance model is Logistic regression model, with a accuracy of 97.60% and standard deviation of 1.87%.
 
 *Dataset= breast_cancer.csv
 *Code=Breast_Cancer_ML_Model.ipynb
