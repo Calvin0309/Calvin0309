@@ -15,7 +15,7 @@ For this project I built a breast cancer classifier to predict whether the breas
 
 - GridsearchCV is used to tune the hyperparameters of each models.
 
-##**Result:**
+## **Result:**
 
 I had recorded 2 model which gave outstanding performances.
 
@@ -29,7 +29,7 @@ I decided to pick the **Catboost model** since the recall score is perfect (100%
 
 *Code=Breast_Cancer_ML_Model.ipynb*
 
-##**Resources** 
+## **Resources** 
 
 The dataset is collected from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer)
 <!---
