@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Calvin0309 , a 20 years old ambitious youth
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning statistics.
-- 📫 want to reach out to me??  1. Email: lowcheeseng0309@gmail.com 2.IG: calvin_loww01
-
-# **[Project 1: Breast Cancer classifier: Project Overview](https://calvin0309.github.io/Calvin_Portfolio/)** 
+# **[Project 1: Breast Cancer classifier: Project Overview]** 
 
 For this project I built a breast cancer classifier to predict whether the breast lump is benign or maglinant. This could be useful for the doctors(users) to provide predicted answer to the patients, therefore the patients can decidewhether to carry out further examination or not. 
 
