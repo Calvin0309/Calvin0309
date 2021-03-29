@@ -7,13 +7,13 @@
 
 For this project I built a breast cancer classifier to predict whether the breast lump is benign or maglinant. This could be useful for the doctors(users) to provide predicted answer to the patients, therefore the patients can decidewhether to carry out further examination or not. 
 
-     1.Users can use the model to make estimation by entering the types/values of 9 features(Clump thickness, uniformity of cell size,	uniformity of cell shape,	marginal adhesion, single epithelial cell size,	bare nuclei,	bland chromatin, normal nucleoli and mitoses). 
+- Users can use the model to make estimation by entering the types/values of 9 features(Clump thickness, uniformity of cell size,	uniformity of cell shape,	marginal adhesion, single epithelial cell size,	bare nuclei,	bland chromatin, normal nucleoli and mitoses). 
 
-     2.To get the best model, I had implement multiple models such as logistic regression, random forest, SVC, XGBoost, CatBoost and so on.
+- To get the best model, I had implement multiple models such as logistic regression, random forest, SVC, XGBoost, CatBoost and so on.
 
-     3.K-fold cross validation is applied to get the most accurate accuracies for each models.
+- K-fold cross validation is applied to get the most accurate accuracies for each models.
 
-     4.GridsearchCV is used to tune the hyperparameters of each models.
+- GridsearchCV is used to tune the hyperparameters of each models.
 
 ##**Result:**
 
