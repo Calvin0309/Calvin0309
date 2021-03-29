@@ -12,19 +12,15 @@ To get the best model, I had implement multiple models such as logistic regressi
 K-fold cross validation is applied to get the most accurate accuracies for each models.
 GridsearchCV is used to tune the hyperparameters of each models.
 
-**Result:
-
+**Result:**
 I had recorded 2 model which gave outstanding performances.
-
 1.Catboost(accuracy=96.53%, standard deviation= 2.50%, MCC=95.4%, precision= 94.30%, recall= 100%)
-
 2.Logistic regression (accuracy=97.60%, standard deviation= 1.87%, MCC=90.5% precision= 94%, recall= 94%)
 
 I decided to pick the **Catboost model** since the recall score is perfect (100%) and the MCC is higher. This is because the model is to predict whether the cancer is benign (negative) or maglinant(positive). Thus we want to minimize the false negative (patient actually got maglinant tumor but the predicted result is benign) by having the recall score as high as possible. 
 
-*Dataset= breast_cancer.csv
-
-*Code=Breast_Cancer_ML_Model.ipynb
+*Dataset= breast_cancer.csv*
+*Code=Breast_Cancer_ML_Model.ipynb*
 <!---
 Calvin0309/Calvin0309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
